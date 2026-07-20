@@ -1,0 +1,6 @@
+{
+  "name": "Gudangku",
+  "description": "Aplikasi manajemen gudang bahan baku cerdas dengan pemantauan stok real-time, enkripsi data AES-256, dashboard analitik, dan pelaporan otomatis berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
